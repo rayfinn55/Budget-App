@@ -1,0 +1,86 @@
+module.exports = [
+    {
+        name: "Party",
+        date: "January 10",
+        from: "Franklin",
+        amount: 200,
+    },
+    {
+        name: "Groceries",
+        date: "January 7",
+        from: "Mom",
+        amount: 400,
+    },
+    {
+        name: "Parisian Vacation",
+        date: "July 15",
+        from: "Dad",
+        amount: 3200,
+    },
+    {
+        name: "Kids School Supplies",
+        date: "August 1",
+        from: "Mom & Dad",
+        amount: 500,
+    },
+    {
+        name: "Visit to the Vet",
+        date: "April 12",
+        from: "Gambino",
+        amount: 100,
+    },
+    {
+        name: "Gas for RV",
+        date: "February 10",
+        from: "Dad",
+        amount: 165,
+    },
+    {
+        name: "Hair Cut",
+        date: "January 10",
+        from: "Mom",
+        amount: 150,
+    },
+    {
+        name: "Uber",
+        date: "May 22",
+        from: "Jess",
+        amount: 50,
+    },
+    {
+        name: "Car Note",
+        date: "February 9",
+        from: "Dad",
+        amount: 430,
+    },
+    {
+        name: "PS5 ",
+        date: "June 15",
+        from: "Franklin",
+        amount: 600,
+    },
+    {
+        name: "Funimation",
+        date: "July 10",
+        from: "Franklin",
+        amount: 7.99,
+    },
+    {
+        name: "Happy Hour",
+        date: "May 6 ",
+        from: "Dad",
+        amount: 40,
+    },
+    {
+        name: "New Suit",
+        date: "September 10",
+        from: "Dad",
+        amount: 670,
+    },
+    {
+        name: "Paint for Garage",
+        date: "March 1",
+        from: "Mom and Dad",
+        amount: 100,
+    },
+];
